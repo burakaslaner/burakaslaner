@@ -1,4 +1,3 @@
-[!MasterHead](https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/github-logo.jpeg)
 <h1 align="center">Hi 👋, I'm Burak Aslaner</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye</h3>
 
